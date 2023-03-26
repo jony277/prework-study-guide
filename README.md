@@ -20,7 +20,7 @@ prework and choose one topic for us to study first.
 
 
 ## Credits
-N/A
+N/A .
 
 ## License
 MIT License
